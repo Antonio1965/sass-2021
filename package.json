@@ -1,0 +1,15 @@
+{
+  "name": "sass-2021",
+  "version": "1.0.0",
+  "description": "Practica sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tsutsumi, José Antonio",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^6.0.0",
+    "nodemon": "^2.0.7"
+  }
+}

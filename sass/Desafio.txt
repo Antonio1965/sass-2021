@@ -1,0 +1,6 @@
+Desafio de entrega:
+1.- Se aplico variables.
+2.- Se aplico operaciones.
+3.- Se anido la estructura css de footer y se aplica aspersan (&).
+4.- Se anido la pagina galerias, aplica aspersan y @mixin y @include ,sin parametros.
+5.-
